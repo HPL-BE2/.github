@@ -1,3 +1,7 @@
+## 이력 
+<img width="1034" height="578" alt="image" src="https://github.com/user-attachments/assets/e0f45527-0564-4f3e-8c46-284eb7ca3336" />
+
+
 ## 커밋 컨벤션
 ### 커밋 메시지 형식
 - 메시지 마지막에 이슈 번호 남기기
